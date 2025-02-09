@@ -7,7 +7,7 @@ exports = async function(arg){
   var serviceName = "mongodb-atlas";
 
   // Update these to reflect your db/collection
-  var dbName = "db_namejdfdfdkdjf";
+  var dbName = "db_namejdffdfdfdkdjf";
   var collName = "coll_namfdfekjdkfj";
 
   // Get a collection from the context
