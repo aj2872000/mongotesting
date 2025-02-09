@@ -17,7 +17,7 @@ exports = async function(arg){
   try {
     // Get a value from the context (see "Values" tab)
     // Update this to reflect your value's name.
-    var valueName = "value_namefdfdf";
+    var valueName = "value_name";
     var value = context.values.get(valueName);
 
     // Execute a FindOne in MongoDB 
