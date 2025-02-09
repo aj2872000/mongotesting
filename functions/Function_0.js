@@ -9,7 +9,6 @@ exports = async function(arg){
   // Update these to reflect your db/collection
   var dbName = "db_name";
   var collName = "coll_name";
-  var name = "ajayjkjjkd";
 
   // Get a collection from the context
   var collection = context.services.get(serviceName).db(dbName).collection(collName);
