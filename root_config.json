@@ -1,6 +1,5 @@
 {
-    "name": "Application-0",
+    "name": "Application-1",
     "provider_region": "gcp-asia-south1",
-    "deployment_model": "LOCAL",
-    "environment": "testing"
+    "deployment_model": "LOCAL"
 }
